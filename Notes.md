@@ -63,5 +63,4 @@ Paprastas tekstas.
 Paprastas tekstas.
 
 
-
 Paprastas tekstas. - tas pats, kas - '<p>'
