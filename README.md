@@ -1,66 +1,77 @@
-# Title h1
+![License]() 58:36
+![Gluten Status]()
+![ECO Status]()
+![Discord]()
 
-Nuoroda: https://www.wikipedia.org
+# UFO
 
-Nuoroda: [Wiki](https://www.wikipedia.org)
+_website design project_
 
-Markdown dokumentacija is [Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<br>
 
-```html
-<body style="background-color: white;">
-    <main style="background-color: pink; width: 60%; margin-left: 20%;margin-right: 20%; margin-top: 10%; display: inline-block;">
-        <div style="background-color: aqua; width: 30%; float: left;">
-            <h1>404</h1>
-            <p>Page not found</p>
-            <a href="#">Go home</a>
-        </div>
-        <img style="background-color: antiquewhite; width: 60%; float: right;" src="./img/ufo.jpg" alt="Ateiviu lekste kuri vagia musu daiktus">
-    </main>
-</body>
+## About
+
+This project is for educational purposes only. Pull request are welcome, but priority for project  authors! Thank you for your cooperation!
+
+Site published at: https://
+
+Design: [UFO](./img/ufo.jpg)
+
+## Project features/goals
+
+-   Github pages
+-   basic [HTML(structure)]() and CSS (style)
+-   [markdown]()
+
+## Getting started
+
+### Prerequisites
+
+Node.js - _download and install_
+
+```
+https://nodejs.org
 ```
 
+Git - _download and install_
+
 ```
-|\|\
-(~~)
-(  )*
+https://git-scm.com
 ```
 
-Paprastas ~~text~~ (~~) tekstas.
+### Run locally
 
--   pirmas
-    - **pirmo pirmas**
-    - *pirmo antras*
-    - ***pirmo trecias***
-    - _**pirmo ketvirtas**_
--   antras
--   trecias
-    - trecio pirmas
-        - ~~trecio pirmo pirmas~~
-        - trecio **pirmo** antras
-        - tre**cio pir**mo trecias
-    - trecio antras
-    - trecio trecias
--   ketvirtas
+Would like to run this project localy? Open terminal and follow these steps:
 
-## Title
+1. Clone the repo
+    ```sh
+    git clone https://
+    ```
+2. Install NPM packages
+    ```sh
+    npm i
+    ```
+    or
+    ```sh
+    npm install
+    ```
+3. Run the server
+    ```sh
+    npm run dev
+    ```
 
-Paprastas tekstas.
+### Running tests
 
-### Title
+There is no test for this project
 
-Paprastas tekstas.
+## Authors
 
-#### Title
+Darius: [Github]()
 
-Paprastas tekstas.
+## License
 
-##### Title
+Ditributed under the MIT License. See LICENSE.txt for more information.
 
-Paprastas tekstas.
+## Other recources
 
-###### Title h6
-
-Paprastas tekstas.
-
-
-Paprastas tekstas. - tas pats, kas - '<p>'
+No other recourcers
